@@ -8,9 +8,8 @@ I'm currently focused on enhancing my understanding of Data Structures and Algor
 
 ### 🚀 What I’m Exploring
 
-- **Cloud Computing:** Understanding the infrastructure and services that power the internet.
 - **Cybersecurity:** Learning about protecting data and systems from digital threats.
-- **Data Science:** Exploring how to make sense of data and extract meaningful insights.
+- **Data Science and AI/ML:** Exploring how to make sense of data and extract meaningful insights.
 
 ### 🛠️ Projects & Experience
 
