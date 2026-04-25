@@ -11,7 +11,7 @@
 <br/>
 
 > **`Building at the intersection of network systems, ML inference, and real-time infrastructure.`**
-> **`Sophomore @ NIT Jalandhar — targeting SDE roles at top-tier MNCs.`**
+> **`Pre-Final @ NIT Jalandhar — targeting SDE roles at top-tier MNCs.`**
 
 <br/>
 
