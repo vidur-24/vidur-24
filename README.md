@@ -1,32 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=120&section=header&text=Vidur%20Dua&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=140&section=header&text=Vidur%20Dua&fontSize=48&fontColor=58a6ff&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Systems+Engineer+%7C+Protocol-Level+Builder;Distributed+Systems+%7C+P2P+%2F+TCP+Socket+Design;ML+Pipelines+%7C+NLP+%2F+Topic+Modeling+at+Scale;Real-Time+Backend+%7C+WebSocket+Infrastructure;B.Tech+Information+Technology+%40+NIT+Jalandhar)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=15\&pause=1200\&color=8B949E\&center=true\&vCenter=true\&width=700\&lines=CGPA+8.41+%7C+Top+15+of+130%2B+at+NIT+Jalandhar;200%2B+DSA+Problems+%7C+DeepLearning.AI+ML+Certified;Building%3A+P2P+Systems+%C2%B7+NLP+Pipelines+%C2%B7+Real-Time+Apps;Open+to+SDE+Internships+%E2%80%94+2025+%2F+2026)](https://git.io/typing-svg)
 
 <br/>
 
-> **`Building at the intersection of network systems, ML inference, and real-time infrastructure.`**
-> **`Pre-Final @ NIT Jalandhar — targeting SDE roles at top-tier MNCs.`**
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-21262d?style=flat-square\&logoColor=white)
+![Low Latency Design](https://img.shields.io/badge/Low_Latency_Design-21262d?style=flat-square\&logoColor=white)
+![Concurrency & Networking](https://img.shields.io/badge/Concurrency_%26_Networking-21262d?style=flat-square\&logoColor=white)
+![ML Pipelines & NLP](https://img.shields.io/badge/ML_Pipelines_%26_NLP-21262d?style=flat-square\&logoColor=white)
 
 <br/>
 
-![Systems](https://img.shields.io/badge/⚙_Focus-Distributed_Systems-0d1117?style=flat-square&labelColor=1f6feb&color=0d1117)
-![Latency](https://img.shields.io/badge/⚡_Core-Low_Latency_Design-0d1117?style=flat-square&labelColor=1f6feb&color=0d1117)
-![Concurrency](https://img.shields.io/badge/🔀_Strength-Concurrency_%26_Networking-0d1117?style=flat-square&labelColor=1f6feb&color=0d1117)
-![ML](https://img.shields.io/badge/🧠_Domain-ML_Pipelines_%26_NLP-0d1117?style=flat-square&labelColor=1f6feb&color=0d1117)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidur-dua-803457238/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vidur-24)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/DuaVidur)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vidurdua24@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=vidur-24&color=1f6feb&style=flat-square&label=profile+views)](https://github.com/vidur-24)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vidur-dua-803457238/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/vidur-24)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:vidur1810@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square\&logo=leetcode\&logoColor=black)](https://leetcode.com/vidur-24)
+[![Profile Views](https://komarev.com/ghpvc/?username=vidur-24\&color=21262d\&style=flat-square\&label=views)](https://github.com/vidur-24)
 
 </div>
 
@@ -35,45 +30,39 @@
 ## ⚡ Engineering Mindset
 
 ```bash
-┌──────────────────────────────────────────────────────────────────┐
-│  vidur@nit-jalandhar  ~  systems-lab                             │
-└──────────────────────────────────────────────────────────────────┘
+vidur@nit-jalandhar:~$ whoami
+  Backend & systems developer.
+  I start at the primitive before reaching for the abstraction.
 
-$ whoami
-  Protocol-level builder. Systems thinker. ML pipeline engineer.
-  I start at the primitive before I reach for the abstraction.
-
-$ cat principles.conf
+vidur@nit-jalandhar:~$ cat principles.conf
   [performance]   measure_first=true        profile_before_optimize=true
   [concurrency]   design_constraint=true    not_an_afterthought=true
   [correctness]   integrity_at_every_layer=true    fail_loud=true
   [architecture]  whiteboard_before_code=true    isolate_critical_paths=true
 
-$ ls -la active_domains/
-  drwxr-xr-x  distributed-systems/    # P2P, DHT, TCP socket engines
-  drwxr-xr-x  ml-inference-pipelines/ # NLP, LDA, TF-IDF, coherence optimization
-  drwxr-xr-x  real-time-backend/      # WebSocket sync, room-scoped state, Socket.IO
-  drwxr-xr-x  full-stack-systems/     # REST APIs, JWT auth, incremental delivery
-  drwxr-xr-x  competitive-dsa/        # C++, binary search, greedy, multiset scheduling
+vidur@nit-jalandhar:~$ ls active_domains/
+  distributed-systems/    # P2P, TCP socket engines, multithreading
+  ml-nlp-pipelines/       # LDA, TF-IDF, scikit-learn, Gensim
+  real-time-backend/      # Socket.IO, WebSocket sync, RESTful APIs
+  full-stack-systems/     # React, Node.js, Flask, MongoDB
+  competitive-dsa/        # C++, graphs, DP, binary search — 200+ problems
 
-$ ./bootstrap --env=production --verify=sha256 --concurrency=max
-  [✓] TCP framing layer online          (8-byte length headers, fragmentation-safe)
-  [✓] ThreadPoolExecutor pool spawned   (latency-aware seeder prioritization)
-  [✓] SHA-256 chunk verifier active     (512 KB block integrity, reject-before-assemble)
-  [✓] WebSocket room sync online        (sub-second state propagation, Socket.IO)
-  [✓] LDA coherence optimizer ready     (BoW + TF-IDF dual vectorization)
-  [✓] All systems nominal. Ready to ship.
+vidur@nit-jalandhar:~$ ./run --verify=integrity --concurrency=max
+  [✓] Multithreaded peer layer online       (10+ simultaneous connections, ~40% throughput gain)
+  [✓] LDA coherence optimizer ready         (50K+ posts, score: 0.61)
+  [✓] WebSocket room sync online            (100–300 ms latency, concurrent multi-user)
+  [✓] All systems nominal.
 ```
 
 ---
 
 ## 🧠 Technical Summary
 
-- **Network Systems & Protocols:** Custom TCP framing (8-byte length headers), BitTorrent-inspired swarming with `ThreadPoolExecutor`, chunk-level SHA-256 integrity verification, progressive seeding, byte-offset-based zero-footprint storage
-- **ML Pipelines & NLP:** End-to-end corpus preprocessing → TF-IDF / BoW vectorization → coherence-score-optimized LDA topic modeling; threat classification on unstructured darknet forum text
-- **Real-Time Infrastructure:** Room-scoped WebSocket state sync via Socket.IO; single-service Express + React SPA deployment; sub-second collaborative propagation latency
-- **Backend Architecture:** Flask & Express 5 REST APIs; JWT-based session handling; security-critical feature isolation; incremental delivery with per-module verification gates
-- **Algorithms & DSA:** Binary search + greedy multiset scheduling (C++); NS2 network simulation with AWK trace analysis (throughput, PDR, end-to-end delay); competitive programming
+- **Network & Distributed Systems:** BitTorrent-inspired P2P with centralized tracker, multithreaded peer communication across 10+ simultaneous connections, chunk-based parallel transfer with ~40% throughput improvement over sequential
+- **ML Pipelines & NLP:** LDA topic modeling on 50,000+ darknet forum posts (coherence 0.61); end-to-end preprocessing reducing vocabulary noise by ~35%; modular architecture with visualization layer
+- **Real-Time Infrastructure:** Socket.IO multi-user collaborative editing at 100–300 ms latency; UUID-based secure room identifiers; RESTful API with room lifecycle and session management
+- **Backend Architecture:** Node.js + Express.js + Flask REST APIs; JWT-style session handling; MongoDB + MySQL; security-critical module isolation with incremental delivery
+- **Algorithms & DSA:** 200+ problems on LeetCode, GFG, CodeStudio — graphs, DP, binary search; coursework in OS, Computer Networks, Distributed Systems, Cloud Computing
 
 ---
 
@@ -82,86 +71,83 @@ $ ./bootstrap --env=production --verify=sha256 --concurrency=max
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-**Frameworks & Libraries**
+**Web Frameworks**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**ML / Data Libraries**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Gensim](https://img.shields.io/badge/Gensim-0097A7?style=flat-square&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![NS2](https://img.shields.io/badge/NS2_Simulator-4B275F?style=flat-square&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 **Databases**
 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
 ## 🔥 Featured Projects
 
----
-
 <details open>
-<summary><b>⚙️ P2P Mini-Torrent System</b> &nbsp;·&nbsp; <a href="https://github.com/vidur-24/P2P-Torrent-System">→ view repo</a> &nbsp;·&nbsp; <code>distributed-systems</code> <code>networking</code> <code>concurrency</code> <code>protocol-design</code></summary>
+<summary><b>⚙️ Peer-to-Peer File Sharing System (Mini Torrent)</b> &nbsp;·&nbsp; <a href="https://github.com/vidur-24/P2P-Torrent-System">→ view repo</a> &nbsp;·&nbsp; <code>distributed-systems</code> <code>networking</code> <code>concurrency</code></summary>
 
 <br/>
 
-> A production-grade Python P2P file distribution engine modeled after BitTorrent's core architecture — implemented from raw TCP sockets, with no protocol library shortcuts.
+> BitTorrent-inspired P2P file sharing engine with a centralized tracker for peer discovery — built from raw TCP sockets with no protocol library shortcuts.
 
-**Stack:** `Python 3.10+` · `Raw TCP Sockets` · `Flask` · `concurrent.futures` · `SHA-256` · `ThreadPoolExecutor`
+**Stack:** `Python` · `TCP/IP` · `Socket Programming` · `Multithreading` · `Distributed Systems`
 
-| Dimension | Engineering Detail |
+| Dimension | Detail |
 |---|---|
-| **Protocol Layer** | Custom **8-byte length-header framing** over native TCP — handles fragmentation, partial reads, and connection reuse |
-| **Concurrency Model** | `ThreadPoolExecutor` parallel chunk swarming; **latency-aware seeder selection** minimizes per-chunk RTT |
-| **Integrity Guarantee** | Per-chunk **SHA-256 verification at 512 KB granularity** — corrupted/spoofed blocks rejected before reassembly |
-| **Throughput Design** | **Progressive mid-download seeding**: nodes serve verified chunks before own download completes, maximizing swarm bandwidth |
-| **Storage Model** | Byte-offset `seek()` sweeps eliminate full-file duplication; `.tmp` artifacts GC'd post-assembly |
-| **Tracker Design** | Flask matchmaker = pure JSON routing matrix. **Never touches raw file bytes.** Peers own all data transport. |
-
-> **Planned:** Kademlia DHT · Rarest-first piece selection · Tit-for-tat choking
+| **Architecture** | Centralized tracker for peer discovery & metadata; peers own all data transport |
+| **Concurrency** | Multithreaded peer layer handling **10+ simultaneous client connections** |
+| **Throughput** | Chunk-based parallel transfer — **~40% improvement** over sequential in local network tests |
+| **Scale** | Supports **8+ concurrent peers** with reliable data exchange across distributed backend |
 
 </details>
 
 ---
 
 <details open>
-<summary><b>🧠 Darknet Forum Threat Intelligence — Topic Modeling</b> &nbsp;·&nbsp; <a href="https://github.com/vidur-24/Identifying-Illicit-Activities-in-Darknet-Forums-via-Topic-Modeling">→ view repo</a> &nbsp;·&nbsp; <code>ml-pipeline</code> <code>nlp</code> <code>unsupervised-learning</code> <code>threat-intelligence</code></summary>
+<summary><b>🧠 Identifying Illicit Activities in Darknet Forums via Topic Modeling</b> &nbsp;·&nbsp; <a href="https://github.com/vidur-24/Identifying-Illicit-Activities-in-Darknet-Forums-via-Topic-Modeling">→ view repo</a> &nbsp;·&nbsp; <code>ml-pipeline</code> <code>nlp</code> <code>unsupervised-learning</code></summary>
 
 <br/>
 
-> End-to-end unsupervised NLP pipeline for automated discovery of illicit activity patterns in unstructured dark-web forum corpora — grounded in peer-reviewed cybersecurity literature.
+> End-to-end unsupervised NLP pipeline for automated illicit activity discovery in dark-web forum corpora, grounded in peer-reviewed research.
 
-**Stack:** `Python` · `Gensim` · `scikit-learn` · `NLTK` · `spaCy` · `LDA` · `TF-IDF` · `Jupyter`
+**Stack:** `Python` · `NLP` · `LDA` · `scikit-learn` · `Gensim` · `Pandas` · `NumPy`
 
-| Dimension | Engineering Detail |
+| Dimension | Detail |
 |---|---|
-| **Preprocessing** | URL stripping → tokenization → lemmatization → deduplication on raw dark-web corpus |
-| **Feature Engineering** | Dual strategy: **BoW + TF-IDF** for comparative representational fidelity |
-| **Model** | **Coherence-score-optimized LDA** — topics map to cybercrime, illicit trade, extremist discourse, underground markets |
-| **Classification Output** | Per-document topic distribution enabling **threat labeling at document granularity** |
-| **Research Basis** | Blei et al. (LDA), Abbasi et al., Scanlon & Gerber; results validated against dark-web literature |
+| **Scale** | LDA pipeline on **50,000+ darknet forum posts** |
+| **Model Quality** | **Topic coherence score of 0.61** via hyperparameter optimization |
+| **Preprocessing** | Tokenization → lemmatization → stop-word removal, reducing vocabulary noise by **~35%** |
+| **Architecture** | Modular design with extensible visualization layer for topic exploration & production deployment |
 
 </details>
 
@@ -172,35 +158,16 @@ $ ./bootstrap --env=production --verify=sha256 --concurrency=max
 
 <br/>
 
-> Multi-user code editing platform with room-scoped WebSocket sync — shipped as a single Node.js service. Live at **[livedev-codeeditor.onrender.com](https://livedev-codeeditor.onrender.com/)**.
+> Multi-user collaborative code editor with room-scoped WebSocket sync. Live at [livedev-codeeditor.onrender.com](https://livedev-codeeditor.onrender.com/).
 
-**Stack:** `React 18` · `Node.js` · `Express 5` · `Socket.IO` · `CodeMirror 5` · `Render`
+**Stack:** `React (Vite)` · `Tailwind CSS` · `Node.js` · `Express.js` · `Socket.IO` · `MongoDB` · `Mongoose`
 
-| Dimension | Engineering Detail |
+| Dimension | Detail |
 |---|---|
-| **Real-Time Model** | Room-isolated Socket.IO sessions — **sub-second editor state propagation** across concurrent users |
-| **Deployment** | Single-service architecture: Express serves production React build + **SPA fallback** — zero separate static host |
-| **Correctness** | Express 5 path matching hardened against `path-to-regexp` wildcard edge cases |
-| **Extensibility** | `POST /compile` stub architected for sandboxed execution backend integration |
-
-</details>
-
----
-
-<details open>
-<summary><b>🏛️ TaxEase — Incremental ITR Filing Platform</b> &nbsp;·&nbsp; <a href="https://github.com/vidur-24/SE-Project-2025">→ view repo</a> &nbsp;·&nbsp; <code>full-stack</code> <code>security</code> <code>incremental-delivery</code> <code>rest-api</code></summary>
-
-<br/>
-
-> Full-stack ITR platform with JWT-based auth, security-first module isolation, and strict incremental delivery on a financial-grade document pipeline.
-
-**Stack:** `TypeScript` · `React` · `Vite` · `Tailwind CSS` · `Flask` · `SQLite` · `JWT`
-
-| Dimension | Engineering Detail |
-|---|---|
-| **Delivery Model** | **4-increment architecture**: Auth → Upload → ITR Form → Tax Calculation API |
-| **Security Design** | JWT sessions; file upload validated at API boundary before storage; **security-critical modules isolated for independent verification** |
-| **API Layer** | CORS-enabled Flask REST; PAN validation in `lib/utils.ts`; toast-based UX feedback |
+| **Latency** | Concurrent multi-user editing at **~100–300 ms latency** in local tests |
+| **Backend** | Scalable RESTful APIs: room lifecycle, session handling, UUID-based secure room IDs |
+| **Reliability** | Real-time presence indicators + reconnection logic — reduced session drop rate in stress tests |
+| **Storage** | MongoDB + Mongoose for room and session persistence |
 
 </details>
 
@@ -210,20 +177,20 @@ $ ./bootstrap --env=production --verify=sha256 --concurrency=max
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vidur-24&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidur-24&layout=compact&theme=github_dark&hide_border=true&langs_count=7&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vidur-24&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidur-24&layout=compact&theme=github_dark&hide_border=true&langs_count=7&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="165"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vidur-24&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vidur-24&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vidur-24&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vidur-24&theme=github-compact&bg_color=0d1117&color=8b949e&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -235,117 +202,77 @@ $ ./bootstrap --env=production --verify=sha256 --concurrency=max
   ╔══════════════════════════════════════════════════════════════════╗
   ║  FIRST PRINCIPLES ENGINEERING                                    ║
   ║                                                                  ║
-  ║  01  Custom TCP framing — not a library call. I wrote the        ║
-  ║      8-byte length-header protocol layer from scratch.           ║
+  ║  01  Raw socket programming — no protocol shortcuts. Built       ║
+  ║      multithreaded peer layers from TCP/IP primitives.           ║
   ║                                                                  ║
-  ║  02  Integrity by design — SHA-256 is a system invariant,        ║
-  ║      enforced at chunk assembly time, not bolted on after.       ║
+  ║  02  Metrics over intuition — every claim is a number:          ║
+  ║      40% throughput gain, 0.61 coherence, 100-300ms latency.    ║
   ║                                                                  ║
-  ║  03  Concurrency is a constraint — thread pools are sized        ║
-  ║      and scheduled with latency semantics, not "spawn + hope."   ║
+  ║  03  Concurrency by design — thread pools sized for             ║
+  ║      10+ simultaneous connections, not as an afterthought.      ║
   ║                                                                  ║
-  ║  04  Systems before syntax — data flow, failure modes, and       ║
-  ║      consistency guarantees are whiteboarded before code opens.  ║
+  ║  04  Data-scale thinking — 50K+ document NLP pipelines,         ║
+  ║      8+ concurrent peers, ~35% noise reduction measured.        ║
   ║                                                                  ║
-  ║  05  Research-grounded ML — coherence-score optimization over    ║
-  ║      default hyperparameters, validated against literature.      ║
+  ║  05  GCP Study Jam — top performer out of 50+ participants.     ║
+  ║      Cloud-native thinking applied early, not as an add-on.     ║
   ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🧠 System Design Workflow
+## 🏆 Achievements
 
-```
- PROBLEM STATEMENT
-       │
-       ▼
-┌──────────────────────────────────────────────────────────────────┐
-│  1 · IDENTIFY THE ACTUAL BOTTLENECK                              │
-│  Network I/O? CPU-bound? Lock contention? Memory pressure?       │
-│  Optimize the right layer — not the visible one.                 │
-└─────────────────────────────┬────────────────────────────────────┘
-                              │
-                              ▼
-┌──────────────────────────────────────────────────────────────────┐
-│  2 · MODEL DATA FLOW & CONCURRENCY BOUNDARIES                    │
-│  Who produces? Who consumes? What are the invariants?            │
-│  Where can failure silently corrupt state?                       │
-└─────────────────────────────┬────────────────────────────────────┘
-                              │
-                              ▼
-┌──────────────────────────────────────────────────────────────────┐
-│  3 · ISOLATE CRITICAL PATHS                                      │
-│  Security boundaries. Integrity checks. Latency-sensitive loops. │
-│  These get their own modules. They fail loudly or not at all.    │
-└─────────────────────────────┬────────────────────────────────────┘
-                              │
-                              ▼
-┌──────────────────────────────────────────────────────────────────┐
-│  4 · BUILD INCREMENTALLY — VERIFY BEFORE INTEGRATING            │
-│  Ship the core primitive. Harden it. Then extend.                │
-│  Never integrate an unverified module into a critical path.      │
-└─────────────────────────────┬────────────────────────────────────┘
-                              │
-                              ▼
-┌──────────────────────────────────────────────────────────────────┐
-│  5 · MEASURE AGAINST TARGETS — ITERATE WITH DATA                 │
-│  Throughput. Latency percentiles. PDR. Coherence scores.         │
-│  Numbers drive the next iteration — not intuition.               │
-└──────────────────────────────────────────────────────────────────┘
-```
+| | |
+|---|---|
+| 🎓 **Academic** | CGPA 8.41 · Ranked top 15 of 130+ IT students at NIT Jalandhar |
+| 🧠 **ML** | DeepLearning.AI Machine Learning Specialization — supervised learning, neural networks, end-to-end ML |
+| 💻 **DSA** | 200+ problems on LeetCode, GFG, CodeStudio — graphs, DP, binary search |
+| ☁️ **Cloud** | Top performer in Google Cloud Study Jam — outperformed 50+ participants |
+| 🤝 **Leadership** | Core member, Cybernauts (IT dept. tech society) — 5+ events reaching 500+ students |
+| 🏁 **Hackathons** | SIH'23 · Adobe GenSolve · American Express Campus Challenge · L'Oréal Sustainability Challenge |
 
 ---
 
 ## 🚧 Currently Building / Exploring
 
 ```python
-# Active Engineering Focus — 2025
+# 2025 Focus Areas
 roadmap = {
-
     "distributed_systems": {
-        "kademlia_dht":          "Stripping the centralized tracker — pure DHT routing",
-        "rarest_first_selection":"BitTorrent-spec piece scheduling for swarm efficiency",
-        "choking_algorithms":    "Tit-for-tat bandwidth fairness enforcement",
+        "kademlia_dht":           "Decentralizing the tracker layer — pure DHT peer routing",
+        "rarest_first_selection": "BitTorrent-spec piece scheduling for swarm efficiency",
     },
-
     "llm_infrastructure": {
-        "kv_cache_optimization": "Reducing inference memory footprint at serving time",
-        "quantization":          "INT8/FP16 weight compression for throughput gains",
-        "batching_strategies":   "Dynamic batching for high-throughput inference pipelines",
+        "kv_cache_optimization":  "Reducing inference memory footprint at serving time",
+        "batching_strategies":    "Dynamic batching for high-throughput inference pipelines",
     },
-
     "cloud_native": {
-        "docker":      "Multi-service containerization and image layer optimization",
-        "kubernetes":  "Scheduling, liveness/readiness probes, resource quotas",
-        "ci_cd":       "Automated test-and-deploy pipelines for backend services",
+        "gcp_and_aws":  "IAM, compute services, cloud deployment — active GCP track",
+        "docker":       "Multi-service containerization and image optimization",
+        "ci_cd":        "Automated test-and-deploy pipelines for backend services",
     },
-
     "systems_cpp": {
-        "lock_free_structures": "Atomic operations, memory ordering, ABA problem",
-        "memory_models":        "x86 vs ARM relaxed consistency — practical implications",
-        "concurrent_algorithms":"Wait-free vs lock-free: correctness proofs and tradeoffs",
+        "lock_free_structures":  "Atomic operations, memory ordering, ABA problem",
+        "concurrent_algorithms": "Wait-free vs lock-free correctness proofs and tradeoffs",
     },
 }
 ```
+
 ---
 
 ## 🤝 Connect
 
-> Open to **SDE internships**, research collaborations, and backend / systems engineering roles at top-tier MNCs.
+> Open to **SDE internships** and backend / systems engineering roles at top-tier MNCs.
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidur-dua-803457238/)
-[![Email](https://img.shields.io/badge/Email-vidurdua24@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vidurdua24@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@DuaVidur-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DuaVidur)
+[![Email](https://img.shields.io/badge/Email-vidur1810@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vidur1810@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-vidur--24-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vidur-24)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vidur-24)
 
 <br/>
 <sub>B.Tech Information Technology &nbsp;·&nbsp; NIT Jalandhar &nbsp;·&nbsp; India</sub>
 
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=80&section=footer" width="100%"/>
 </div>
