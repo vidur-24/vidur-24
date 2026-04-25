@@ -328,57 +328,6 @@ roadmap = {
     },
 }
 ```
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/vidur-24/vidur-24/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vidur-24/vidur-24/output/github-snake.svg"/>
-  <img alt="contribution-snake" src="https://raw.githubusercontent.com/vidur-24/vidur-24/output/github-snake-dark.svg"/>
-</picture>
-
-*Consistency is a system property. Discipline compounds.*
-
-</div>
-
-<details>
-<summary>⚙️ <b>One-time snake animation setup</b> — click to expand</summary>
-<br/>
-
-Create `.github/workflows/snake.yml` inside your `vidur-24` profile repo:
-
-```yaml
-name: Generate Contribution Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: vidur-24
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Push it, then trigger once manually from the **Actions** tab. Updates automatically every 24 hours.
-
-</details>
-
 ---
 
 ## 🤝 Connect
